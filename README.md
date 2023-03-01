@@ -60,6 +60,6 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 
 <div width="100%" align="center"><a href="https://github.com/ayushrathore111/tic-tac-toe " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Tic-tac-toe &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ayushrathore111 /chatting-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Chatting app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /> 
 
 <div width="100%" align="center"><a href="https://github.com/ayushrathore111/dictionary " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Dictionary &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
