@@ -7,7 +7,7 @@ Web developer and Cp enthusiasts
 I'm a backend developer with node.js and react.js & database I generally use is mongodb and I've knowledge of Apis as well and I'm Competitive programmer in C++ and analyzed the dsa problems around 400.
 I have team work skills also and currently I participated in hackathon and made project and I'm working on ml project of department in which we are applying ml models on different datasets
 
-* 🌍  I'm based in Kannauj India
+* 🌍  I'm based in NIT JALANDHAR
 * 🖥  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ayush-rathore-5404b0223)
 * ✉  You can contact me at [Rathoreayush714@gmail.com](mailto:Rathoreayush714@gmail.com )
 * 🚀  I'm currently working on [Stoccoin](https://github.com/Stoccoin-Official/Stoccoin-Website) at #gssoc'23
