@@ -9,9 +9,9 @@ I am web developer with Html css js bootstrap nodejs reactjs mongodb jquery and 
 * 🌍  I'm based in Kannauj India
 * 🖥  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ayush-rathore-5404b0223)
 * ✉  You can contact me at [Rathoreayush714@gmail.com](mailto:Rathoreayush714@gmail.com )
-* 🚀  I'm currently working on [OPPIA](http://oppia.org)
-* 🧠  I'm learning Php
-* 🤝  I'm open to collaborating on All open-source projects of backend and fronend as well
+* 🚀  I'm currently working on [Stoccoin](https://github.com/Stoccoin-Official/Stoccoin-Website) at #gssoc'23
+* 🧠  I'm learning ML.
+* 🤝  I'm open to collaborating on All open-source projects of backend, machine learning.
 
 <a href="https://www.github.com/ayushrathore111 " target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ayushrathore111 ?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/AyushRa70146413" target="_blank" rel="noreferrer"><img
