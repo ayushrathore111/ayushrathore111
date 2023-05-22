@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and Cp enthusiasts
 --------------------------------
 
-I am web developer with Html css js bootstrap nodejs reactjs mongodb jquery and now I'm developing the skills in these technologies..
+I'm a backend developer with node.js and react.js & database I generally use is mongodb and I've knowledge of Apis as well and I'm Competitive programmer in C++ and analyzed the dsa problems around 400.
+I have team work skills also and currently I participated in hackathon and made project and I'm working on ml project of department in which we are applying ml models on different datasets
 
 * 🌍  I'm based in Kannauj India
 * 🖥  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ayush-rathore-5404b0223)
