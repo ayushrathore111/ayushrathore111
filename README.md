@@ -47,7 +47,10 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 <p align="left"> <a href="https://discord.com/users/ayush_coder#1267" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ayushrathore111 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ayushrathore168 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AyushRa70146413" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<br/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ayushrathore111&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrathore111&langs_count=5&theme=tokyonight)]()
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ayushrathore111 "><img src="https://github-readme-stats.vercel.app/api?username=ayushrathore111 &show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ayushrathore111 's GitHub stats" /></a>
@@ -58,7 +61,6 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 
 <a href="https://github.com/ayushrathore111 " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrathore111 &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br/>
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ayushrathore111/tic-tac-toe " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Tic-tac-toe &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ayushrathore111 /chatting-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Chatting app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
