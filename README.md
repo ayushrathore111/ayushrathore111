@@ -89,22 +89,19 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
                 </a>
             </th>
-    
-            <th>
-                <a href="mailto:rathayush111@gmail.com" target="_blank" rel="noopener noreferrer" title="rathayush111@gmail.com">
-                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
-                </a>
-            </th>
             <th>
                 <a href="https://twitter.com/AyushRa70146413" target="_blank" rel="noopener noreferrer" title="https://twitter.com/AyushRa70146413">
                     <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
                 </a>
             </th>
-        </tr>
-    </thead>
+           <th>
+                <a href="mailto:rathayush111@gmail.com" target="_blank" rel="noopener noreferrer" title="rathayush111@gmail.com">
+                    <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
+                </a>
+            </th>
+         </tr>
+    </thead>     
 </table>
-<!-- social media links end -->
-<!-- connect with me end -->
 
 <br/>
 <br/>
@@ -120,10 +117,6 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 <a href="http://www.github.com/ayushrathore111 "><img src="https://github-readme-stats.vercel.app/api/?username=ayushrathore111&count_private=true&theme=tokyonight&showicons=true" alt="ayushrathore111 's GitHub stats" /></a>
 
 <a href="http://www.github.com/ayushrathore111 "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrathore111&langs_count=5&theme=tokyonight" /></a>
-
-<a href="http://www.github.com/ayushrathore111 "><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ayushrathore111 &bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ayushrathore111 " align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrathore111 &langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
