@@ -42,22 +42,18 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/ayush_coder#1267" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ayushrathore111 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ayushrathore168 " target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AyushRa70146413" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
 ### Badges
 
 
 
 <div align="center">
-    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=montasim&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph-mnex.vercel.app/graph?username=ayushrathore111&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
 </div>
 <!-- github readme activity graph end -->
 
 <!-- github trophy start -->
 <div align="center">
-    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=montasim&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+    <img loading="lazy" src="https://github-profile-trophy-mnex.vercel.app?username=ayushrathore111&theme=radical&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
 </div>
 <!-- github trophy end -->
 
@@ -68,7 +64,6 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 
 <!-- feel free to contact me text start -->
 <div align="center"> 
-    <img loading="lazy" width="21" src="./media/icons/link.png" alt="postbox svg" />
     <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=1&pause=1&color=00B8B5&center=true&vCenter=true&repeat=false&width=385&height=21&lines=FEEL+FREE+TO+CONTACT+ME+ANYTIME" alt="feel free to contact me svg" />
 </div>
 <!-- feel free to contact me text end -->
@@ -80,37 +75,28 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
     <thead align="center">
         <tr>
             <th>
-                <a href="https://www.linkedin.com/in/montasim" target="_blank" rel="noopener noreferrer" title="linkedin.com/in/montasim">
+                <a href="https://www.linkedin.com/in/ayush-rathore-5404b0223/" target="_blank" rel="noopener noreferrer" title="https://www.linkedin.com/in/ayush-rathore-5404b0223/">
                     <img loading="lazy" alt="linkedin icon" src="https://cdn.simpleicons.org/linkedin/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.github.com/montasim" target="_blank" rel="noopener noreferrer" title="github.com/montasim">
+                <a href="https://www.github.com/ayushrathore111" target="_blank" rel="noopener noreferrer" title="github.com/ayushrathore111">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/github/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://stackoverflow.com/users/20348607/montasim" target="_blank" rel="noopener noreferrer" title="stackoverflow.com/users/20348607/montasim">
+                <a href="https://stackoverflow.com/users/20055211/ayush-rathore" target="_blank" rel="noopener noreferrer" title="https://stackoverflow.com/users/20055211/ayush-rathore">
                     <img loading="lazy" alt="github icon" src="https://cdn.simpleicons.org/stackoverflow/EB008B" width="35px">
                 </a>
             </th>
+    
             <th>
-                <a href="https://montasim-dev.web.app/" target="_blank" rel="noopener noreferrer" title="montasim-dev.web.app">
-                    <img loading="lazy" alt="web icon" src="https://cdn.simpleicons.org/googlechrome/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="mailto:montasimmamun@gmail.com" target="_blank" rel="noopener noreferrer" title="montasimmamun@gmail.com">
+                <a href="mailto:rathayush111@gmail.com" target="_blank" rel="noopener noreferrer" title="rathayush111@gmail.com">
                     <img loading="lazy" alt="gmail icon" src="https://cdn.simpleicons.org/gmail/EB008B" width="35px">
                 </a>
             </th>
             <th>
-                <a href="https://www.facebook.com/montasimmamun/" target="_blank" rel="noopener noreferrer" title="facebook.com/montasimmamun">
-                    <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/facebook/EB008B" width="35px">
-                </a>
-            </th>
-            <th>
-                <a href="https://twitter.com/montasimmamun" target="_blank" rel="noopener noreferrer" title="twitter.com/montasimmamun">
+                <a href="https://twitter.com/AyushRa70146413" target="_blank" rel="noopener noreferrer" title="https://twitter.com/AyushRa70146413">
                     <img loading="lazy" alt="facebook icon" src="https://cdn.simpleicons.org/twitter/EB008B" width="35px">
                 </a>
             </th>
@@ -141,8 +127,7 @@ src="https://img.shields.io/twitter/follow/AyushRa70146413?logo=twitter&style=fo
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/ayushrathore111/tic-tac-toe " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Tic-tac-toe &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ayushrathore111 /chatting-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Chatting app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/ayushrathore111/loadpredictor " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=loadpredictor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ayushrathore111/Samadhan_hackmol4.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Samadhan_hackmol4.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br /> 
 
-<div width="100%" align="center"><a href="https://github.com/ayushrathore111/dictionary " align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ayushrathore111 &repo=Dictionary &title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
