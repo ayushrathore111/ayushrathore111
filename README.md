@@ -10,9 +10,8 @@ I have team work skills also and currently I participated in hackathon and made 
 * 🌍  I'm based in NIT JALANDHAR
 * 🖥  See my portfolio at [LinkedIn](http://www.linkedin.com/in/ayush-rathore-5404b0223)
 * ✉  You can contact me at [Rathoreayush714@gmail.com](mailto:Rathoreayush714@gmail.com )
-* 🚀  I'm currently working on [
-DataScienceWebsite.github.io]( https://github.com/ayushrathore111/DataScienceWebsite.github.io) at #gssoc'23
-* 🧠  I'm learning ML.
+* 🚀  I'm currently working on [langchain](https://github.com/ayushrathore111/langchain).
+* 🧠  I'm learning LLM.
 * 🤝  I'm open to collaborating on All open-source projects of backend, machine learning.
 
 <a href="https://www.github.com/ayushrathore111 " target="_blank" rel="noreferrer"><img
