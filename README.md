@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is AYUSH RATHORE
 =====================================================================================================================================
 
-Web developer and Cp enthusiasts
+Data Science, Backend developer and Cp enthusiastic 
 --------------------------------
 
 I'm a backend developer with node.js and react.js & database I generally use is mongodb and I've knowledge of Apis as well and I'm Competitive programmer in C++ and analyzed the dsa problems around 400.
